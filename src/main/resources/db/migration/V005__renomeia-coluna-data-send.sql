@@ -1,0 +1,1 @@
+alter table commentary rename column data_send to date_send;
